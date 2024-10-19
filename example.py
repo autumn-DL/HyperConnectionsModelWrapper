@@ -9,6 +9,7 @@ class example(nn.Module):
         return self.l(x)
 
 if __name__ == '__main__':
+    # 这只是个简单的例子 实际使用请在求和好加上norm
     hyper_connection_rate=4
     x=torch.randn(1,20,128)
     x=x.unsqueeze(-2)
