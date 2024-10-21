@@ -2,6 +2,8 @@
 
 慎用 这玩意在w2vbert上面boom了
 
+但是奇怪的是另外一个task 非常的稳定 并且性能最好
+
 [HyperConnections](https://arxiv.org/pdf/2409.19606)
 
 # usage
