@@ -1,5 +1,7 @@
 # HyperConnectionsWrapper
 
+慎用 这玩意在w2vbert上面boom了
+
 [HyperConnections](https://arxiv.org/pdf/2409.19606)
 
 # usage
